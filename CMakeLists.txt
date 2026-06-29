@@ -13,5 +13,4 @@ add_executable(simulation
     src/simulator.cpp
     src/main.cpp
 )
-# Ajoute l'option -O3 uniquement à la cible "simulation"
 target_compile_options(simulation PRIVATE -O3)
