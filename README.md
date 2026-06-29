@@ -44,6 +44,7 @@ make
 ```
 ### Run simulation instructions
 
+This script executes the compiled C++ binary, and plots the resulting trajectories.
 ```bash
 python3 scripts/run_sim.py
 ```
