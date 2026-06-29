@@ -1,0 +1,12 @@
+build/
+.vscode/
+/CMakeSettings.json
+env_summer_project/
+simulation
+*.exe
+*.out
+
+*.csv
+
+html/
+latex/
