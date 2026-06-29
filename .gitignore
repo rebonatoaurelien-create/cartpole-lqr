@@ -9,4 +9,4 @@ simulation
 *.csv
 
 html/
-latex/
+latex/Doxyfile
